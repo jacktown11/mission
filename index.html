@@ -156,6 +156,9 @@
 
         $.get('./mission.json', function(data){
             console.log(data);
+            data.sort(function(item1, item2){
+                return item2.createdTime - item1.createdTime;
+            });
             let htmlStr = '';
             for (let item of data) {
                 htmlStr += genItemStr(item);
