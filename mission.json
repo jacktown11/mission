@@ -19,9 +19,26 @@
         "mission": "今日简史",
         "createdTime": 20181005,
         "total": 350,
+        "finished": 350,
+        "completedTime": 20181007,
+        "children": null
+    },
+    {
+        "mission": "黑马32期JavaSE",
+        "createdTime": 20181007,
+        "total": 33,
         "finished": 0,
         "completedTime": null,
-        "children": null
+        "children": [
+                {
+                    "mission": "黑马32期JavaSE day01",
+                    "createdTime": 20181007,
+                    "total": 1,
+                    "finished": 0,
+                    "completedTime": null,
+                    "children": null
+                }
+        ]
     }
 
 ]
