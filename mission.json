@@ -27,18 +27,16 @@
         "mission": "黑马32期JavaSE",
         "createdTime": 20181007,
         "total": 33,
+        "finished": 1,
+        "completedTime": null,
+        "children": null
+    },
+    {
+        "mission": "黑马32期JavaEE",
+        "createdTime": 20181008,
+        "total": 93,
         "finished": 0,
         "completedTime": null,
-        "children": [
-                {
-                    "mission": "黑马32期JavaSE day01",
-                    "createdTime": 20181007,
-                    "total": 1,
-                    "finished": 0,
-                    "completedTime": null,
-                    "children": null
-                }
-        ]
+        "children": null
     }
-
 ]
