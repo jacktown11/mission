@@ -35,7 +35,7 @@
         "mission": "黑马32期JavaEE",
         "createdTime": 20181008,
         "total": 93,
-        "finished": 7,
+        "finished": 8,
         "completedTime": null,
         "children": null
     },
@@ -51,7 +51,7 @@
         "mission": "Web全栈课程",
         "createdTime": 20181027,
         "total": 59,
-        "finished": 5,
+        "finished": 6,
         "completedTime": null,
         "children": null
     }
