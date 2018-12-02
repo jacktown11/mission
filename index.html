@@ -172,7 +172,11 @@
             '</li><li class="created-time">' + mi.createdTime + 
             '创建</li><li class="finished"><span class="finished-bar" style="width:' + mi.finished/mi.total*100 + 
             '%;"></span><span class="finished-text">' + mi.finished + 
-            '/' + mi.total + '</span></li><li class="completed-time">' + (mi.completedTime?mi.completedTime:'未') + '完成</li></ul>';
+            '/' + mi.total + '</span></li><li class="completed-time">' + 
+            (!mi.completedTime ? '未完成': 
+                mi.finished<mi.total ? (mi.completedTime+'中止') : 
+                (mi.completedTime+'完成') ) + 
+            '</li></ul>';
 
             let part2 = '';
             if(mi.children){
