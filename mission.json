@@ -82,7 +82,7 @@
                 "mission": "vue",
                 "createdTime": 20181208,
                 "total": 7,
-                "finished": 5,
+                "finished": 7,
                 "completedTime": null,
                 "children": null
             },
@@ -151,5 +151,13 @@
                 "children": null
             }
         ]
+    },
+    {
+        "mission": "Vue音乐App",
+        "createdTime": 20181212,
+        "total": 14,
+        "finished": 1,
+        "completedTime": null,
+        "children": null
     }
 ]
