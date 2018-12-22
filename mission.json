@@ -68,7 +68,7 @@
         "createdTime": 20181203,
         "total": 48,
         "finished": 15,
-        "completedTime": null,
+        "completedTime": 20181212,
         "children": [
             {
                 "mission": "h5Core",
@@ -153,10 +153,10 @@
         ]
     },
     {
-        "mission": "Vue音乐App",
-        "createdTime": 20181212,
-        "total": 14,
-        "finished": 1,
+        "mission": "vue高仿饿了么app项目",
+        "createdTime": 20181214,
+        "total": 12,
+        "finished": 7,
         "completedTime": null,
         "children": null
     }
