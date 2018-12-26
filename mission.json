@@ -83,7 +83,7 @@
                 "createdTime": 20181208,
                 "total": 7,
                 "finished": 7,
-                "completedTime": null,
+                "completedTime": 20181213,
                 "children": null
             },
             {
@@ -156,8 +156,8 @@
         "mission": "vue高仿饿了么app项目",
         "createdTime": 20181214,
         "total": 12,
-        "finished": 7,
-        "completedTime": null,
+        "finished": 12,
+        "completedTime": 20181225,
         "children": null
     }
 ]
