@@ -58,8 +58,8 @@
     {
         "mission": "《计算机科学导论》",
         "createdTime": 20181107,
-        "total": 18,
-        "finished": 4,
+        "total": 340,
+        "finished": 102,
         "completedTime": null,
         "children": null
     },
@@ -158,6 +158,14 @@
         "total": 12,
         "finished": 12,
         "completedTime": 20181225,
+        "children": null
+    },
+    {
+        "mission": "angular入门实战",
+        "createdTime": 20181228,
+        "total": 10,
+        "finished": 4,
+        "completedTime": null,
         "children": null
     }
 ]
